@@ -1,0 +1,14 @@
+Shop_ID,Price,Label
+1,4,teddy_bear
+1,8,baby_powder 
+2,5,teddy_bear
+2,6.5,baby_powder 
+3,1,cotton_buds 
+3,2,cotton_balls 
+3,3,johnson_wipes 
+3,3,teddy_bear 
+4,5,johnson_wipes 
+4,2.5,cotton_buds 
+5,4,bath_towel 
+5,8,scissor  
+6,3,johnson_wipes cotton_balls teddy_bear cotton_buds
